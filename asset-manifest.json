@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/RDPR/static/css/main.96632a09.css",
+    "main.js": "/RDPR/static/js/main.8c5df016.js",
+    "static/js/787.f92be3f2.chunk.js": "/RDPR/static/js/787.f92be3f2.chunk.js",
+    "static/media/tn-l.png": "/RDPR/static/media/tn-l.0f47287e22100be4e0c9.png",
+    "static/media/revenueIcon.svg": "/RDPR/static/media/revenueIcon.6c4f7119db80f3e2418d3b65ddab1b4f.svg",
+    "static/media/totalUser.svg": "/RDPR/static/media/totalUser.bfc94b4c4832703dfcf7b38663492b1c.svg",
+    "static/media/contractor.svg": "/RDPR/static/media/contractor.a04e242b6d9d97b2bebf6f178ed6afb7.svg",
+    "static/media/totalTransIcon.svg": "/RDPR/static/media/totalTransIcon.306cabeb30c6e0203936af6ebfdc34d5.svg",
+    "static/media/home.svg": "/RDPR/static/media/home.dea3f6e60a4ab2afa71189dac110a294.svg",
+    "static/media/likesIcon.svg": "/RDPR/static/media/likesIcon.452e530c86866678893f116229140a2f.svg",
+    "static/media/google-icon.svg": "/RDPR/static/media/google-icon.aa3f48282ed4d82b3dd747083e488af9.svg",
+    "static/media/menu.svg": "/RDPR/static/media/menu.1f82f8efabe260bb05e3f979819a3e3a.svg",
+    "static/media/architect.svg": "/RDPR/static/media/architect.2041fb03ef5fd227863e31c1ea5a4a2f.svg",
+    "static/media/notification.svg": "/RDPR/static/media/notification.a21bc994e84482cd1c660819886490b6.svg",
+    "static/media/apple-icon.svg": "/RDPR/static/media/apple-icon.a792e594fe18353bdd70e37a3510d470.svg",
+    "index.html": "/RDPR/index.html",
+    "static/media/search.svg": "/RDPR/static/media/search.063cb8f0db78e84763a7b4c2b4816000.svg",
+    "main.96632a09.css.map": "/RDPR/static/css/main.96632a09.css.map",
+    "main.8c5df016.js.map": "/RDPR/static/js/main.8c5df016.js.map",
+    "787.f92be3f2.chunk.js.map": "/RDPR/static/js/787.f92be3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96632a09.css",
+    "static/js/main.8c5df016.js"
+  ]
+}
